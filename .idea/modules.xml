@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/spring-model.iml" filepath="$PROJECT_DIR$/.idea/modules/model/spring-model.iml" group="spring-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/spring-model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/model/spring-model_main.iml" group="spring-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/spring-model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/model/spring-model_test.iml" group="spring-model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security/spring-security.iml" filepath="$PROJECT_DIR$/.idea/modules/security/spring-security.iml" group="spring-security" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security/spring-security_main.iml" filepath="$PROJECT_DIR$/.idea/modules/security/spring-security_main.iml" group="spring-security" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security/spring-security_test.iml" filepath="$PROJECT_DIR$/.idea/modules/security/spring-security_test.iml" group="spring-security" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/spring-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/spring-service.iml" group="spring-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/spring-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/spring-service_main.iml" group="spring-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/spring-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/spring-service_test.iml" group="spring-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utility/spring-utility.iml" filepath="$PROJECT_DIR$/.idea/modules/utility/spring-utility.iml" group="spring-utility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utility/spring-utility_main.iml" filepath="$PROJECT_DIR$/.idea/modules/utility/spring-utility_main.iml" group="spring-utility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utility/spring-utility_test.iml" filepath="$PROJECT_DIR$/.idea/modules/utility/spring-utility_test.iml" group="spring-utility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/spring-web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/spring-web.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/spring-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/spring-web_main.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/spring-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/spring-web_test.iml" group="spring-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_main.iml" group="spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_test.iml" group="spring" />
+    </modules>
+  </component>
+</project>

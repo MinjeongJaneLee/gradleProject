@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sitemesh:sitemesh:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sitemesh/sitemesh/3.0.1/3fe2fdca831ba69eebd820782b2ab4a4857d9d76/sitemesh-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sitemesh/sitemesh/3.0.1/f0f30f33e2c247c7a9f06ac4b0c91d4d3a2743c2/sitemesh-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Default</comment>
+
+    <!-- # 기본메시지 -->
+    <entry key="project.title">V.commerce</entry>
+
+    <!-- # 시스템메시지 -->
+    <entry key="000001">System error.</entry>
+    <entry key="000002">Test message.</entry>
+</properties>

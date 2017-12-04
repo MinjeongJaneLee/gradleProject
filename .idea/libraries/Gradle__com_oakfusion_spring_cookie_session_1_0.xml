@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oakfusion:spring-cookie-session:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oakfusion/spring-cookie-session/1.0/9c2deed2e654d3ac0ee0ab1d44cdeda2e0ae347f/spring-cookie-session-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oakfusion/spring-cookie-session/1.0/5a84a78112cd3f4ecd93cffb6a09cf4e847d51e/spring-cookie-session-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

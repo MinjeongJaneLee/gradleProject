@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-model_main" target="1.8" />
+      <module name="spring-model_test" target="1.8" />
+      <module name="spring-security_main" target="1.8" />
+      <module name="spring-security_test" target="1.8" />
+      <module name="spring-service_main" target="1.8" />
+      <module name="spring-service_test" target="1.8" />
+      <module name="spring-utility_main" target="1.8" />
+      <module name="spring-utility_test" target="1.8" />
+      <module name="spring-web_main" target="1.8" />
+      <module name="spring-web_test" target="1.8" />
+      <module name="spring_main" target="1.8" />
+      <module name="spring_test" target="1.8" />
+      <module name="vcommerce-frontoffice-model_main" target="1.8" />
+      <module name="vcommerce-frontoffice-model_test" target="1.8" />
+      <module name="vcommerce-frontoffice-service_main" target="1.8" />
+      <module name="vcommerce-frontoffice-service_test" target="1.8" />
+      <module name="vcommerce-frontoffice-web_main" target="1.8" />
+      <module name="vcommerce-frontoffice-web_test" target="1.8" />
+      <module name="vcommerce-frontoffice_main" target="1.8" />
+      <module name="vcommerce-frontoffice_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

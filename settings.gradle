@@ -1,0 +1,9 @@
+rootProject.name = 'spring'
+
+include 'model'
+include 'service'
+include 'web'
+include 'security'
+include 'utility'
+
+rootProject.children.each { it.name = "${rootProject.name}-${it.name}" }

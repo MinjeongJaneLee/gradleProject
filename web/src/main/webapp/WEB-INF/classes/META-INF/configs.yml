@@ -1,0 +1,46 @@
+spring:
+  profiles: local
+server:
+  verify:
+    host: http://10.0.4.29:9090
+  upload:
+    url: /uploads
+    path: ${java.io.tmpdir}/resources/uploads
+    root:
+      path: ${java.io.tmpdir}/uploads
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://1.234.47.10:3310/Vcommerce
+  username: vcom_svc
+  password: vF8c#WNx
+---
+spring:
+  profiles: dev
+server:
+  verify:
+    host: http://v-commerce-dev02:8094
+  upload:
+    url: /uploads
+    path: /resources/uploads
+    root:
+      path: /data
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://craw2:3310/Vcommerce
+  username: vcom_svc
+  password: vF8c#WNx
+  maxIdle: 20
+  jndiName: jdbc/WriteVcom
+---
+spring:
+  profiles: prod
+server:
+  verify:
+    host: https://verify-api.vcnetwork.co.kr
+  upload:
+    url: http://img.vcnetwork.co.kr
+    path: /resources/uploads
+    root:
+      path: /nas/vcommerce
+jdbc:
+  jndiName: jdbc/WriteVcom

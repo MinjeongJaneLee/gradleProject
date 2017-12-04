@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>메시지 한글</comment>
+
+    <!-- # 기본메시지 -->
+    <entry key="project.title">커머스 FO</entry>
+
+    <!-- # Spring security message -->
+    <entry key="AbstractUserDetailsAuthenticationProvider.badCredentials">아이디 또는 비밀번호가 일치하지 않습니다.</entry>
+    <entry key="AbstractUserDetailsAuthenticationProvider.credentialsExpired">비밀번호의 유효 기간이 만료되었습니다. 관리자에게 문의해주세요.</entry>
+    <entry key="AbstractUserDetailsAuthenticationProvider.disabled">등록된 사용자 정보를 찾을수 없습니다.</entry>
+    <entry key="AbstractUserDetailsAuthenticationProvider.expired">해당 계정의 유효 기간이 만료 되었습니다. 관리자에게 문의해주세요.</entry>
+    <entry key="AbstractUserDetailsAuthenticationProvider.locked">해당 계정이 잠겨 있습니다. 관리자에게 문의해주세요.</entry>
+
+
+    <!-- # 시스템메시지 -->
+    <entry key="000001">시스템 오류 입니다.</entry>
+    <entry key="000001">등록된 사용자 정보를 찾을수 없습니다.</entry>
+    <entry key="000003">암호화 오류입니다.</entry>
+    <entry key="000004">정보가 잘못 입력되었습니다. 확인 후 다시 시도해 주세요.</entry>
+    <entry key="000005">접근 권한이 없습니다.</entry>
+    <entry key="000006">등록중 오류가 발생하였습니다.</entry>
+    <entry key="000007">수정중 오류가 발생하였습니다.</entry>
+    <entry key="000008">삭제중 오류가 발생하였습니다.</entry>
+</properties>

@@ -1,0 +1,14 @@
+@font-face{
+    font-family:SpoqaHanSans;
+    src:url(../font/SpoqaHanSansRegular.woff);
+    src:local(※), url(../font/SpoqaHanSansRegular.woff) format('woff'),
+    url(../font/SpoqaHanSansRegular.woff2) format('woff2'),
+    url(../font/SpoqaHanSansRegular.ttf) format('ttf');
+}
+@font-face{
+    font-family:SpoqaHanSansBold;
+    src:url(../font/SpoqaHanSansBold.woff);
+    src:local(※), url(../font/SpoqaHanSansBold.woff) format('woff'),
+    url(../font/SpoqaHanSansBold.woff2) format('woff2'),
+    url(../font/SpoqaHanSansBold.ttf) format('ttf');
+}

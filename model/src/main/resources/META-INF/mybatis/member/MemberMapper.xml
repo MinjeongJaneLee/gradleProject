@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+<mapper namespace="com.spring.mapper.member.MemberMapper">
+
+    <select id="getByMbrId" parameterType="string" resultType="com.spring.domain.member.Member">
+        SELECT
+        mbr_id,
+        mbr_pwd,
+        mbr_type_code,
+        mbr_nm,
+        birth,
+        tel,
+        email,
+        mbr_memo,
+        acnt_use_yn,
+        acnt_reason,
+        sms_recp_yn,
+        email_recp_yn,
+        fav_category,
+        login_error_cnt,
+        acnt_lock_yn,
+        accnt_holder,
+        refund_bank,
+        refund_accnt,
+        mdf_date,
+        reg_date
+        FROM T_MEMBER
+        <where>
+            AND mbr_id = #{mbrId}
+        </where>
+    </select>
+</mapper>
